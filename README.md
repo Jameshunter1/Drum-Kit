@@ -1,5 +1,6 @@
 # Drum-Kit
 
+This Project is live on github pages and can be accessed at https://jameshunter1.github.io/Drum-Kit/
 
 An interactive drum hit using eventListeners for keypresses which triggers the corresponding drum sound
 
