@@ -2,7 +2,7 @@
 
 ## Description 
 
-An interactive drum hit using eventListeners for keypresses which triggers the corresponding drum sound
+An interactive drum kit using eventListeners for keypresses which triggers the corresponding drum sound.
 
 ## How to install and run the project
 
