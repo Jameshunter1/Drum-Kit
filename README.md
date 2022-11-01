@@ -4,7 +4,7 @@
 
 An interactive drum hit using eventListeners for keypresses which triggers the corresponding drum sound
 
-# How to install and run the project
+## How to install and run the project
 
 Clone the repository to your local machine
 
