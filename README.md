@@ -1,17 +1,20 @@
-# Drum-Kit
+# Drum Kit Project
 
-## Description 
+This project is a simple JavaScript application that demonstrates my skills in the language. It includes a few basic features and is intended as a portfolio piece.
 
-An interactive drum kit using eventListeners for keypresses which triggers the corresponding drum sound.
+# Getting Started
 
-## How to install and run the project
+To get started with this project, simply clone the repository and open the index.html file in your web browser. No additional setup is required.
 
-Clone the repository to your local machine
+# Features
 
-Run live server
+- Plays the corresponding sound of the images by responding to appropriate key presses
 
-This Project is live on github pages and can be accessed at https://jameshunter1.github.io/Drum-Kit/
+# Technologies Used
 
-![drum](https://user-images.githubusercontent.com/90528783/186235375-fd70d808-fbbd-42c0-b194-51cceaf5b4e6.JPG)
+- JavaScript
+- HTML
+- CSS
+
 
 
